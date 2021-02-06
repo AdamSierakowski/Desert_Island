@@ -141,7 +141,7 @@ PrefabInstance:
     - target: {fileID: 1236679019616779871, guid: f35209c4acdd50347b796ce0f7763bfe,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.79
+      value: 1.03
       objectReference: {fileID: 0}
     - target: {fileID: 1236679019616779871, guid: f35209c4acdd50347b796ce0f7763bfe,
         type: 3}
@@ -201,7 +201,7 @@ PrefabInstance:
     - target: {fileID: 2842555165515009100, guid: f35209c4acdd50347b796ce0f7763bfe,
         type: 3}
       propertyPath: m_Name
-      value: BeechSmall (1)
+      value: BeechMedium
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f35209c4acdd50347b796ce0f7763bfe, type: 3}
